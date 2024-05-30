@@ -9,7 +9,7 @@ profile:
   image: profile_pic_3.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>eolesinski@nevada.unr.edu</p>
+    <p>ethan589@mit.edu</p>
     <br>
     <p>Boston, MA</p>
 
