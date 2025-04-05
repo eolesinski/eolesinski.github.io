@@ -1,8 +1,8 @@
 ---
 layout: page
 title: PoliSciPy
-description: an open-source Python package for psephologists
-img: assets/img/electoral_college.png
+description: A Python Library for Political Data Analysis & U.S. Election Visualization
+img: assets/img/election_2024.png
 importance: 1
 category: code & open-source
 related_publications: false
@@ -98,9 +98,9 @@ An example of an electoral college map created using the PoliSciPy package is sh
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/electoral_college.png" title="example image" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/election_2024.png" title="example image" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
-    Example electoral college map created using the PoliSciPy Python package.
+    Electoral college map (2024) created using the PoliSciPy package.
 </div>
