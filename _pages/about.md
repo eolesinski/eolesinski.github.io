@@ -25,4 +25,4 @@ Prior to graduate school, I received my Bachelor’s of Science in Economics and
 
 While at UNR, I was a Research Assistant in the Department of Economics where I worked with [Prof. Mehmet S. Tosun](https://www.unr.edu/business/faculty-and-staff/tosun-mehmet). I also completed an internship at the [Nevada Governor’s Office of Economic Development](https://goed.nv.gov). At Columbia, I participated in the Columbia Space Initiative, Columbia Financial Investment Group, and the Columbia Economics Society.
 
-*Research Interests: Digital Currency • Distributed Systems • Public Policy*
+_Research Interests: Digital Currency • Distributed Systems • Public Policy_

@@ -58,7 +58,7 @@ The figure below shows a Jupyter notebook illustrating how a geometric transform
     The application of a geometric transformation to a multipolygon in a Jupyter Notebook.
 </div>
 
-Once the geometric transformations are applied, the only thing left to do is add the labels for each of the states. Editing the shapefile in ArcGIS allowed for the addition of a `x_centroid` and `y_centroid` column directly to the shapefile so that each state label could be displayed in the center of its respective multipolygon. 
+Once the geometric transformations are applied, the only thing left to do is add the labels for each of the states. Editing the shapefile in ArcGIS allowed for the addition of a `x_centroid` and `y_centroid` column directly to the shapefile so that each state label could be displayed in the center of its respective multipolygon.
 
 <div class="row">
   <div class="col-md-7">
