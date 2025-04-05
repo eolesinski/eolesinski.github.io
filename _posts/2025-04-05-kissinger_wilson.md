@@ -7,6 +7,4 @@ tags: politics opinion
 thumbnail: assets/img/kissinger_wilson.jpg
 ---
 
-
-
-
+Coming Soon!
