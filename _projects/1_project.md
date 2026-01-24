@@ -14,10 +14,10 @@ related_publications: false
 
 ---
 
-### Overview
+#### Overview
 Creating high-quality electoral maps in Python traditionally involves multiple complex steps: loading shapefiles, repositioning Alaska and Hawaii, adding state labels, applying custom colormaps, and formatting the visualization. PoliSciPy handles all of this automatically, allowing researchers and analysts to focus on their data rather than cartographic details.
 
-####g Key Features
+#### Key Features
 
 - **Single-line map generation:** Create complete electoral maps by passing a single data column
 - **Partisan colormap:** Use custom color schemes for representing political leanings and competitiveness
@@ -27,7 +27,7 @@ Creating high-quality electoral maps in Python traditionally involves multiple c
 
 ---
 
-### How It Works
+#### How It Works
 PoliSciPy improves upon existing political science data visualization workflows by incorporating custom-edited shapefiles, streamlined geometric transformations, and allowing a high degree of customization. The technical approach to the project involved three main steps:
 
 1. Shapefile Preprocessing
@@ -46,7 +46,7 @@ PoliSciPy includes a partisan colormap designed specifically for electoral data,
 plot_electoral_map(gdf, column='winning_party', title='2024 U.S. Electoral College Map')
 ```
 
-### Example Output
+#### Example Output
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
