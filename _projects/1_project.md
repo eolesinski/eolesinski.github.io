@@ -17,7 +17,7 @@ related_publications: false
 ### Overview
 Creating high-quality electoral maps in Python traditionally involves multiple complex steps: loading shapefiles, repositioning Alaska and Hawaii, adding state labels, applying custom colormaps, and formatting the visualization. PoliSciPy handles all of this automatically, allowing researchers and analysts to focus on their data rather than cartographic details.
 
-#### Key Features
+####g Key Features
 
 - **Single-line map generation:** Create complete electoral maps by passing a single data column
 - **Partisan colormap:** Use custom color schemes for representing political leanings and competitiveness
